@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="SuiteRunByClass" verbose="1">
+    <test name="Bai22">
+        <classes>
+            <class name="crm.Tests.SigningTest"> </class>
+<!--            <class name="crm.Tests.CustomersAddNewTest"> </class>-->
+            <class name="crm.Tests.CustomerDetailTest"> </class>
+        </classes>
+    </test>
+</suite>
