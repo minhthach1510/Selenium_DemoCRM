@@ -1,6 +1,6 @@
 # Dự án Kiểm thử Tự động CRM Demo (Selenium & Java)
 
-Đây là dự án kiểm thử tự động nhỏ, sử dụng Selenium WebDriver với Java và TestNG để kiểm tra các chức năng cơ bản của một ứng dụng CRM demo tại: [https://crm.anhtester.com/admin/authentication](https://crm.anhtester.com/admin/authentication).
+Đây là dự án kiểm thử tự động nhỏ, sử dụng Selenium WebDriver với Java và TestNG để kiểm tra các chức năng cơ bản của một trang web CRM demo: [https://crm.anhtester.com/admin/authentication](https://crm.anhtester.com/admin/authentication).
 
 Dự án này được tạo ra với mục đích thực hành và minh họa kỹ năng kiểm thử tự động.
 
