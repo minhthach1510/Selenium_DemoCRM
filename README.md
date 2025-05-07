@@ -41,6 +41,3 @@ Dự án này được tạo ra với mục đích thực hành và minh họa k
    
 
     *Lưu ý: WebDriverManager sẽ tự động quản lý driver cho trình duyệt (mặc định là Chrome).*
-## Tác giả
-
-* Trương Minh Thạch
